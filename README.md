@@ -1,4 +1,6 @@
-### Hi there, i'm João Ghabriel;
+### Olá, meu nome João Ghabriel.
+
+#### Sou um entusiasta da área de desenvolvimento front-end buscando constante aprimoramento das minhas habilidades. 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/joaoghabriel1/)
