@@ -3,6 +3,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoghabriell1&show_icons=true&theme=dark);
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoghabriell1&size_weight=0.5&count_weight=0.5)
+
 ## Tech Stack
 
 <div style="display: inline-block">
@@ -14,5 +16,6 @@
      <img src='https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white'>
      <img src='https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white'>
      <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'>
+     <img src='https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white'>
      <img src='https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase'>
 <div/>
